@@ -239,16 +239,16 @@
 # comp3.Show()
 
 
-#ORDER CLASS ANG __GT__ DUNDER
-class Order:
-    def __init__(self,item,price):
-        self.item = item
-        self.price = price
+# #ORDER CLASS ANG __GT__ DUNDER
+# class Order:
+#     def __init__(self,item,price):
+#         self.item = item
+#         self.price = price
 
-    def __gt__(self,ord2):
-        return self.price > ord2
+#     def __gt__(self,ord2):
+#         return self.price > ord2
 
-ord1 = ('Chips',20)
-ord2 = ('Coke',40)
+# ord1 = ('Chips',20)
+# ord2 = ('Coke',40)
 
-print(ord1 > ord2)
+# print(ord1 > ord2)
