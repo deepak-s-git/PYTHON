@@ -8,3 +8,6 @@ Day 2 :- Learning Flow Control and Functions
 Day 3 :- Learning Strings,Lists,Tuples and Dictionaries
 <br>
 Day 4 :- Learning Object Oriented Programming
+<br>
+Day 5 and 6 :- Revised all the DSA Concepts
+               Starting LeetCode...........
